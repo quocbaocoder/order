@@ -1,0 +1,5 @@
+{
+  "name": "Quan An Order Manager",
+  "description": "A restaurant order management system allowing staff to place orders, manage the menu, and sync order data to Google Sheets.",
+  "requestFramePermissions": []
+}
